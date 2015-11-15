@@ -18,11 +18,9 @@
 	width: 64px;
 	height: 64px;
 
-	background: url('http://thinkdot.tk/images/events/blubs.png');
+	background: url('//raw.githubusercontent.com/sandrosdj/Garage/master/LightUpTheChristmas/bulbs.png');
 	background-position: 0px 0px;
 }
-
-
 
 #christmaslights .light.color0.broken {
 	background-position: -128px 0px;
